@@ -1,0 +1,222 @@
+{
+    "format_version" : "1.20.20",
+    "sound_definitions" : {
+        "mob.allay.death" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.50
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.50
+               }
+            ]
+         },
+         "mob.allay.hurt" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.50
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.50
+               }
+            ]
+         },
+         "mob.allay.idle" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.120
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.120
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.120
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.120
+               }
+            ]
+         },
+         "mob.allay.idle_holding" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.250
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.250
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.250
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.250
+               }
+            ]
+         },
+         "mob.allay.item_given" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.10
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.10
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "volume" : 0.10
+               },
+               {
+                  "name" : "ssound/misc/silence",
+                  "volume" : 0.10
+               }
+            ]
+         },
+         "mob.allay.item_taken" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.10
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.10
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.10
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.10
+               }
+            ]
+         },
+         "mob.allay.item_thrown" : {
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 0.50,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 0.56250,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 0.6250,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 0.750,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 0.93750,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.1250,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.250,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.50,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 1.8750,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 2,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 2.250,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 2.50,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 3,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 3.750,
+                  "volume" : 0.30
+               },
+               {
+                  "name" : "sound/misc/silence",
+                  "pitch" : 4,
+                  "volume" : 0.30
+               }
+            ]
+        }
+    }
+}

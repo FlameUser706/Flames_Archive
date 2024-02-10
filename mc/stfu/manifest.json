@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Shut the fuck up",
+        "name": "Vanilla Resource Pack",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 30 ]
+    },
+    "modules": [
+        {
+            "description": "Shut the fuck up",
+            "type": "resources",
+            "uuid": "3d6d4137-7cbd-42cc-ba22-6284610e6857",
+            "version": [0, 0, 1]
+        }
+    ]
+}
