@@ -1,0 +1,15 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+}
