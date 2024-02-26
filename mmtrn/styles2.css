@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 20px;
+    background-color: white; /* Set background color to white */
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'sans-serif';
+    color: black; /* Set text color to black */
+}
