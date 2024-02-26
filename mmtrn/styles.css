@@ -6,10 +6,12 @@ body {
     align-items: center;
     height: 100vh;
     margin: 20px;
+    background-color: white; /* Set background color to white */
 }
 
 p {
     text-align: center;
     font-size: 30px;
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+    font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
+    color: black; /* Set text color to black */
 }
